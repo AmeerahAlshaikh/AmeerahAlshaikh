@@ -1,3 +1,7 @@
+
+<p align="center">
+    <img width="600" src="https://github.com/AmeerahAlshaikh/AmeerahAlshaikh/assets/101029077/97e77d80-063b-49ed-901b-30c148e6d0a4">
+</p>
 <h1 align="center">Hi 👋, I'm Ameerah Alshaikh</h1>
 <h3 align="center">I am an information technology student passionate about problem-solving and creating innovative solutions. I'm good in various programming languages, including Java, Python, SQL, and PHP. I am also skilled in front-end development, including HTML, CSS, and Bootstrap.</h3>
 
