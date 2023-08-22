@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ameerah Alshaikh</h1>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=254101603967648855" height="293" width="345" frameborder="0" scrolling="no" ></iframe><h1 align="center">Hi 👋, I'm Ameerah Alshaikh</h1>
 <h3 align="center">I am an information technology student passionate about problem-solving and creating innovative solutions. I'm good in various programming languages, including Java, Python, SQL, and PHP. I am also skilled in front-end development, including HTML, CSS, and Bootstrap.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerahalshaikh&label=Profile%20views&color=85618f&style=flat" alt="ameerahalshaikh" /> </p>
